@@ -10,7 +10,6 @@
 
 - [ ] Kalender designen
 - [ ] Rausfinden wie man Wochentage und Daten kann eintragen ohne jedes selber zu schreiben
-- [ ] Rausfinden wie man zum nächsten Monat kann wechseln
 - [ ] Knöpfe einbauen um zum nächtsen Monat zu kommen
 
 ✍️ Heute habe ich... (50-100 Wörter)
