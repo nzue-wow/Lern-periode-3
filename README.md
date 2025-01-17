@@ -22,3 +22,13 @@ Ich habe den Kalender in Windforms dargestellt. dabei habe ich mit Textboxen und
 - [ ] Wochentage einfügen
 - [ ] Knöpfe zum Monatwechseln einfügen
 - [ ] eingabefeld für Benuzer
+
+
+✍️ Heute habe ich... (50-100 Wörter)
+Ich habe vorallem probiert die Daten einzufügen, ich habe dafür mit einem Tutorial gearbeitet. Aber irgendwie hat es nicht so funktioniert. Ich denke ich habe am Anfang den Kalender falsch designt und ich kannn nicht mehr die Panels löschen um neu zu starten. deshalb habe ich neu gestartet und mit einem anderem Tutorial weiter gearbeitet. Ich bin leider aber nicht so weit gekommen da ich manchamal so komische Meldungen auf visualstudio hatte das ich dann erstmal kurz nicht weiterarbeiten konnte sondern die Ursache finden musste. Ich werde jetzt in der nächsten woche ein bisschen mehr Arbeiten damit ich meinen kalender einigermassen fertig habe.
+
+## 24.01.2025
+
+- [ ] Der Start vom Monat im Programm haben
+- [ ] Programm soll wissen wie viele tage es im Monat hat
+- [ ] Beide Obrigen Punkte Darstellen inm Forms
