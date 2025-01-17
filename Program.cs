@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CalendarLP3.try2
+namespace LP3
 {
     internal static class Program
     {
