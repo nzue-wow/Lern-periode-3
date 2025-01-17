@@ -31,4 +31,4 @@ Ich habe vorallem probiert die Daten einzufügen, ich habe dafür mit einem Tuto
 
 - [ ] Der Start vom Monat im Programm haben
 - [ ] Programm soll wissen wie viele tage es im Monat hat
-- [ ] Beide Obrigen Punkte Darstellen inm Forms
+- [ ] Beide Obrigen Punkte Darstellen Windforms
