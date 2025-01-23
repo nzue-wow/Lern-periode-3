@@ -30,5 +30,10 @@ Ich habe vorallem probiert die Daten einzufügen, ich habe dafür mit einem Tuto
 ## 24.01.2025
 
 - [ ] Der Start vom Monat im Programm haben
-- [ ] Programm soll wissen wie viele tage es im Monat hat
-- [ ] Beide Obrigen Punkte Darstellen Windforms
+- [ ] Endergebnis vom Projekt aufzeigen
+- [ ] Git Hub Reflektion schreiben
+- [x] Es hat einen Kalender
+
+✍️ Heute habe ich... (50-100 Wörter)
+Ich habe im Programm die fehler versucht zu finden aber irgendwie nicht verstanden wie ich es ändern kann. Dann habe ich etwas versucht und alles ist schief geloffen und mein ganzer code ist irgendwie durcheinander gekommen und ich hatte keine Ahnung mehr was was in meinem Code ist. Dann habe ich die Datei gelöscht und nochmals neu gestartet. Eine sehr einfache Version um Windows Forms kennen zu lernen. Ich habe den Vorprogrammierten Kalender von visual Studio genommen und dann Knöpfe dazu Programmiert. Es ist nicht das was ich vor hatte zu machen abr ist ein anfang
+
