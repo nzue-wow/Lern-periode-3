@@ -6,6 +6,19 @@
 
 1. Ich bin in Informatik nicht schlecht dran. Ich fand die Projekte in denen man Programmiert hat am spannensten.
 4. Für diese Lernperiode 3 möchte ich mir einen Kalender Programmieren. Er soll immer einen ganzen Monat anzeigen,mit den Tagen drin von Montag bis freitag plus Datum. Bei jedem Tag sollte man events oder andere Sachen eintragen können. Zum den nächtsen Monat anzuschauen muss man unten rechts dann einfach weiter drücken. das ziel ist es ein selbstprogrammierten Kalender zu haben den ich dieses Jahr benutzen kann.
+
+## Fertiges Projekt
+
+Der Kalender zeigt Datum und wochentage an. Man kann den Kalender mit hide verstecken und mit show wieder erscheinen lassen. Wenn man den kalender nicht mehr braucht kann man auf den Button Exit drücken und das Programm schliesst sich. Leider fehlte dann mir die Zeit mich nochmals richtig zu vertiefen. 
+
+
+
+https://github.com/user-attachments/assets/6645cb0f-c0f1-48f1-9e33-76ece6c567de
+
+
+## Reflexion
+Es ist eines der Projekte das nicht so gut geloffen ist. Ich habe mir glaub in dieser Lernperiode überschätzt und konnte deshalb  vielleicht nicht so viel profitieren. Es ist auch mehrmals vieles komplett schief geloffen so das ich irgendwann neu gestartet habe. Was ich dieses mal gelernt habe ist sicher einfach zu starten und dann darauf aufzubauen und sicher auch noch waas ich lernen muss ist versuchen weiter zu machen und nicht so schnell aufzugeben. Trotzdem mchte ich sagen das ich einen guten einblick in windows Forms gemacht habe und ich möchte damit auch weiterhin arbeiten.
+
 ## 10.1.2025
 
 - [x] Kalender designen
