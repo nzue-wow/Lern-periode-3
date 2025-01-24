@@ -43,8 +43,8 @@ Ich habe vorallem probiert die Daten einzufügen, ich habe dafür mit einem Tuto
 ## 24.01.2025
 
 - [ ] Der Start vom Monat im Programm haben
-- [ ] Endergebnis vom Projekt aufzeigen
-- [ ] Git Hub Reflektion schreiben
+- [x] Endergebnis vom Projekt aufzeigen
+- [x] Git Hub Reflektion schreiben
 - [x] Es hat einen Kalender
 
 ✍️ Heute habe ich... (50-100 Wörter)
